@@ -4,5 +4,5 @@
 
 FOOD|PET
 -|-
-APPLE|[GITHUB](__https://github.com/fierychicken65/DSA-Project/blob/main/README.md__)
+APPLE|[GITHUB](__https://github.com/fierychicken65)
 BANANA|CAT
