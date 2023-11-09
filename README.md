@@ -1,7 +1,8 @@
-# About Me
+# Who am I?
+###### I am __Fadil__  ==Abdussemee==.I am currently ~~pursuing~~ my CSE undergraduate at PES University, Banglaore.
+`DAWG`
 
-# Experience
-
-# Projects
-
-# Socials
+FOOD|PET
+-|-
+APPLE|[GITHUB](__https://github.com/fierychicken65/DSA-Project/blob/main/README.md__)
+BANANA|CAT
